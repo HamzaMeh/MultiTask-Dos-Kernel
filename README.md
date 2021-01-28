@@ -1,3 +1,3 @@
 # MultiTask-Dos-Kernel
 
-MultiTask Dos Kernel written in Assmebly language for Intel 8088
+MultiTask Dos Kernel written in Assmebly language for 16 bit proccessor
